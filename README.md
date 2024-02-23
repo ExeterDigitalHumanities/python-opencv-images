@@ -14,3 +14,6 @@ The following examples are available:
 * Reading a list of files from a data directory
 * Processing a file using the thresholding techniques to filter noise (e.g. written print-through)
 * Detecting page boundaries in the file and cropping out margins
+
+### basics03.ipynb
+* IN PROGRESS!
